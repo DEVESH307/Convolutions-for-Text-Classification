@@ -1,3 +1,12 @@
+# Resume Points
+# Convolutions for Text Classification with Keras!					   		  	   Aug‘20 
+## Project Objective
+- Implemented a deep learning classification model, employed word embedding with GloVe & used 1D Convolutions with Keras to detect different types of toxic comment 
+- Used Wikipedia dataset and train the model for 3 epochs and achieved 0.9597 train accuracy and 0.9606 test accuracy 
+
+
+
+
 # Convolutions for Text Classification with Keras!
 
 ## Welcome!
